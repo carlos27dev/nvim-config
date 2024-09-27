@@ -1,0 +1,13 @@
+# Vim swap files
+*.swp
+*.swo
+*.swn
+
+# Vim backup files
+*~
+
+# Session files
+Session.vim
+
+# Undo files
+*.un~
